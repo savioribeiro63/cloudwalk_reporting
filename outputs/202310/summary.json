@@ -1,0 +1,11 @@
+{
+  "rows_in": 60,
+  "rows_out": 7,
+  "duplicates_removed": 0,
+  "below_threshold_excluded": 0,
+  "invalid_labels": 0,
+  "invalid_dates": 0,
+  "invalid_amounts": 0,
+  "invalid_currency": 0,
+  "rows_excluded": 53
+}

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TransactionsReport month="2023-10" generated_at="2025-09-05T15:50:02Z">
+  <Transaction id="TX-202183">
+    <Status>chargeback</Status>
+    <Date>2023-10-10</Date>
+    <Amount currency="BRL">36.03</Amount>
+    <Type>CREDIT</Type>
+    <MerchantId>13559473000143</MerchantId>
+    <Network>1</Network>
+    <Category>CREDIT</Category>
+  </Transaction>
+  <Transaction id="TX-582470">
+    <Status>approved</Status>
+    <Date>2023-10-02</Date>
+    <Amount currency="BRL">7740.81</Amount>
+    <Type>DEBIT</Type>
+    <MerchantId>13819399</MerchantId>
+    <Network>1</Network>
+    <Category>DEBIT</Category>
+  </Transaction>
+  <Transaction id="TX-869721">
+    <Status>approved</Status>
+    <Date>2023-10-01</Date>
+    <Amount currency="BRL">9097.68</Amount>
+    <Type>DEBIT</Type>
+    <MerchantId>25425228</MerchantId>
+    <Network>1</Network>
+    <Category>DEBIT</Category>
+  </Transaction>
+  <Transaction id="TX-675098">
+    <Status>approved</Status>
+    <Date>2023-10-29</Date>
+    <Amount currency="BRL">1515.60</Amount>
+    <Type>DEBIT</Type>
+    <MerchantId>45415256000137</MerchantId>
+    <Network>3</Network>
+    <Category>DEBIT</Category>
+  </Transaction>
+  <Transaction id="TX-716787">
+    <Status>approved</Status>
+    <Date>2023-10-15</Date>
+    <Amount currency="BRL">7743.70</Amount>
+    <Type>CREDIT</Type>
+    <MerchantId>45642870000133</MerchantId>
+    <Network>3</Network>
+    <Category>CREDIT</Category>
+  </Transaction>
+  <Transaction id="TX-990650">
+    <Status>approved</Status>
+    <Date>2023-10-15</Date>
+    <Amount currency="BRL">6976.38</Amount>
+    <Type>CREDIT</Type>
+    <MerchantId>82979681000188</MerchantId>
+    <Network>2</Network>
+    <Category>CREDIT</Category>
+  </Transaction>
+  <Transaction id="TX-740837">
+    <Status>approved</Status>
+    <Date>2023-10-22</Date>
+    <Amount currency="BRL">3329.11</Amount>
+    <Type>CREDIT</Type>
+    <MerchantId>90711650000197</MerchantId>
+    <Network>1</Network>
+    <Category>CREDIT</Category>
+  </Transaction>
+</TransactionsReport>
